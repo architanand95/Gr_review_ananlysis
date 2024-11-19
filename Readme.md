@@ -42,7 +42,7 @@ Methodology
 Clone the project
 
 ```bash
-  https://github.com/KumarSampurn/G2-Hackathon
+   https://github.com/architanand95/Gr_review_ananlysis.git
 ```
 
 Go to the project directory
